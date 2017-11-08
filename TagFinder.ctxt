@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TagFinder
+comment1.params=dna
+comment1.target=float\ cgRatio(java.lang.String)
+comment2.params=letter\ word
+comment2.target=int\ countLetterInWord(char,\ java.lang.String)
+comment2.text=\n\ Count\ number\ of\ a\ letter\ in\ a\ word\n\n\ @param\ letter\n\ @param\ word\n\ @return\n
+comment3.params=dna_code\ start\ stop
+comment3.target=int\ findStopCodeon(java.lang.String,\ int,\ java.lang.String)
+comment4.params=dna\ start
+comment4.target=java.lang.String\ findGene(java.lang.String,\ int)
+comment5.params=dna
+comment5.target=int\ countCTGCodon(java.lang.String)
+comment5.text=\n\ Count\ the\ codon\ CTG\ in\ a\ strand\ of\ DNA\n\n\ @param\ dna\ is\ a\ strand\ of\ DNA\n\ @return\ count\ of\ CTG\n
+comment6.params=dna
+comment6.target=void\ findAllGense(java.lang.String)
+comment7.params=
+comment7.target=void\ realTesting()
+numComments=8
